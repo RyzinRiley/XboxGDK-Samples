@@ -20,9 +20,7 @@ This repo contains game development samples written by the Xbox Advanced Tech Gr
 * Microsoft Visual Studio 2022 or Microsoft Visual Studio 2019 (version v16.9+)
 * The ```GDK``` (Game Development Kit) ([GDK](https://aka.ms/gdk))
 * Or the ```GDKX``` (Game Development Kit with Xbox Extensions) ([GDKX](https://aka.ms/gdkx))
-
-
-
+  
 -------------------------------------- 
 
 ## Related Xbox Code Samples
