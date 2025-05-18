@@ -25,8 +25,6 @@ This repo contains game development samples written by the Xbox Advanced Tech Gr
 
 ## Related Xbox Code Samples
 
-For more related code samples, check out:
-
 * [DirectML Samples](https://github.com/microsoft/DirectML)
 * [PlayFab-Samples](https://github.com/PlayFab/PlayFab-Samples)
 * [Xbox-ATG-Samples](https://github.com/microsoft/Xbox-ATG-Samples)
